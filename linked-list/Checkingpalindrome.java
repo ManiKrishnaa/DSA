@@ -77,6 +77,6 @@ class Main {
         original.display();
         original.reverse(reversell);
         reversell.display();
-        original.check(original.head, reversell.head); // Corrected the check method call
+        original.check(original.head, reversell.head); 
     }
 }
